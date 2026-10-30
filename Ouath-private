@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Politique de confidentialité</title>
+</head>
+<body>
+  <h1>Politique de confidentialité</h1>
+  <p>Cette application OAuth (Drive Bridge / Composio) est destinée à un usage personnel uniquement.</p>
+  <p>Elle accède à Google Drive uniquement pour synchroniser des fichiers pour le compte de l'utilisateur autorisé.</p>
+  <p>Aucune donnée n'est partagée avec des tiers. Les jetons d'accès sont stockés de manière sécurisée et utilisés uniquement pour le fonctionnement de l'application.</p>
+  <p>Contact : [ton email]</p>
+</body>
+</html>
